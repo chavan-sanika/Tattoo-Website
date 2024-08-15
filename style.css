@@ -46,7 +46,7 @@
       
 .About {
 
-  font-family:cursive;
+  font-family:Arial, Helvetica, sans-serif;
   float: left;
   padding: 20px;
   width: 60%;
@@ -73,7 +73,7 @@
 /*Section 2*/
 
 .Profile {
-  font-family:cursive;
+  font-family:Arial, Helvetica, sans-serif;
   float: right;
   padding: 20px;
   width: 60%;
